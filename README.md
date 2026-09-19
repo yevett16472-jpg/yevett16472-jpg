@@ -42,8 +42,9 @@ Operating at the intersection of autonomous systems and cognitive architecture, 
 
 ## 🚀 Featured Public Repositories
 
-* **[AegisVault_MedCore](https://github.com/yevett16472-jpg/yevett16472-jpg):** A robust multi-module Python and SQLite pipeline structured for secure, localized medical data handling and architectural integrity.
-* **[Healthcare Data Pipeline](https://github.com/yevett16472-jpg/yevett16472-jpg):** Advanced data orchestration scripts engineered for compliance, secure parsing, and structured automation.
+* **[AegisVault_MedCore](https://github.com/yevett16472-jpg/AegisVault_MedCore):** An isolated staging and conversion repository for secure code integration, local-first data handling, and automated security reviews.
+* **[Healthcare Data Pipeline](https://github.com/yevett16472-jpg/Healthcare-Data-Pipeline-HIPAA-Audit-Engine):** An offline-first compliance and telemetry auditing system engineered for data integrity, secure local storage, and structured HIPAA audit execution.
+* **[Axiom Veda Core](https://github.com/yevett16472-jpg/yevett16472-jpg):** Profile architecture repository housing autonomous agent frameworks and core system metadata.
 
 ---
 
@@ -54,3 +55,4 @@ Operating at the intersection of autonomous systems and cognitive architecture, 
 * **Engineering & Data:** Python Data Analysis, AWS Cloud Architecture, and CS50 Foundations.
 * **Risk & Regulatory Architecture:** Texas Life and Health Insurance (Licensing Path / Protection & Shield Systems).
 
+ 
