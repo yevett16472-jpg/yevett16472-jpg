@@ -1,58 +1,53 @@
-<div align="center">
+# Axiom Veda | Sovereign Systems Architecture & AI Infrastructure
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Axiom%20Veda&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Architecture: Local--First](https://img.shields.io/badge/Architecture-Local--First-emerald.svg)](#)
+[![Compliance: HIPAA/VA Ops](https://img.shields.io/badge/Compliance-HIPAA%2FVA%20Ops-blueviolet.svg)](#)
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](#)
 
-> *"Imagination creates reality."*
-> — **Neville Goddard**
+Enterprise-grade AI systems architect and data engineer specializing in **local-first decision support systems (DSS)**, **high-throughput data pipelines**, and **zero-trust compliance frameworks**. 
 
-</div>
-
----
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.11%20%7C%20Data-ff69b4?style=for-the-badge&logo=python&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-Local%20First-da70d6?style=for-the-badge&logo=sqlite&logoColor=white)]()
-[![MCP](https://img.shields.io/badge/Protocol-MCP-ba55d3?style=for-the-badge)]()
-[![Sovereignty](https://img.shields.io/badge/Architecture-Sovereignty-ff1493?style=for-the-badge)]()
-
-</div>
+Bridging **15 years of high-stakes institutional operations and healthcare compliance** from the Department of Veterans Affairs (VA) into deterministic, auditable software architectures and multi-agent systems.
 
 ---
 
-## 💖 About Me
+## 🏛️ Core Architectural Pillars
 
-While the industry relies on bloated, rented software and pre-packaged third-party boxes, I engineer my systems completely from scratch. I build intelligent, autonomous agent systems and data-driven infrastructure designed to solve complex challenges across high-stakes industries. My work focuses on scalable, modular, and privacy-first engineering—empowering systems to make precise, real-time decisions under true data sovereignty.
-
-* **Core Focus:** Autonomous Agentic Frameworks, Decision Support Systems (DSS), Data Sovereignty, and Multi-Agent Coordination.
-* **Domain Versatility:** Logistics & Operations, Medical/Genetic AI, and Financial Technologies.
-* **Philosophy:** Building technology from the ground up that acts as a strategic shield, a tool for intelligent automation, and a direct manifestation of law, structure, and philosophy.
+* **Local-First Sovereignty:** Zero dependency on automated cloud syncs or untrusted third-party pipelines; full manual control over database execution, schema migrations, and local storage.
+* **Institutional-Grade Compliance:** Hardened data structures and logging protocols built on 15 years of federal compliance, HIPAA standards, and auditability requirements.
+* **Deterministic Decision Support:** Custom multi-agent orchestrators, surge engines, and mathematical scoring systems designed to deliver actionable insights directly to decision-makers.
 
 ---
 
-## 🧠 Agentic Engineering & Multi-Agent Frameworks
+## 🛠️ Flagship Repositories & Systems
 
-Operating at the intersection of autonomous systems and cognitive architecture, my workflows utilize specialized multi-agent structures for dynamic problem-solving and automated decision support:
+### 1. [`AegisVault_MedCore`](https://github.com/yevett16472-jpg/AegisVault_MedCore)
+**Local-First Healthcare Decision Support System & Compliance Engine**
+* **Tech Stack:** Python, SQLite, CLI Orchestration (`aegis_cli.py`), Data Pipelines.
+* **Key Features:** Sovereign medical data isolation, HIPAA-compliant audit logging, CLI-driven analytics, and local-first data processing designed for sensitive healthcare operations.
 
-* **Core Engines:** Large Language Models (LLMs) and Multimodal Models (LMMs) for advanced reasoning, perception, and data synthesis.
-* **Autonomous Coordination:** Multi-agent collaboration frameworks designed for persistent state management, task distribution, and specialized role execution.
-* **Architecture & Safety:** Robust safety guardrails, evaluation loops, and compliance frameworks built for high-stakes domains.
+### 2. [`flex-decision-support-dss`](https://github.com/yevett16472-jpg/flex-decision-support-dss)
+**Algorithmic Logistics & Surge Pricing Decision Support System**
+* **Tech Stack:** Python, SQL, Real-Time Data Ingestion, Dynamic Scoring Models.
+* **Key Features:** High-frequency surge detection engine alerting users to high-yield opportunities, complete with historical database tracking (`Pasadena_Surges`) and manual decision validation.
+
+### 3. [`FlosVitaeTech`](https://github.com/yevett16472-jpg/FlosVitaeTech)
+**Multi-Agent Desktop Application Tracking & System Orchestrator**
+* **Tech Stack:** Python, SQLite, Numerological Directory Isolation (`01_CONFIG` – `05_DOCS_MANIFEST`), Multi-Agent CLI Protocols.
+* **Key Features:** Modular workspace framework driving automated job polling (`10_global_job_poller.py`), application lifecycle tracking, and local database management.
 
 ---
 
-## 🚀 Featured Public Repositories
+## 📐 Directory Structure Standard (5-Phase Isolation)
 
-* **[AegisVault_MedCore](https://github.com/yevett16472-jpg/AegisVault_MedCore):** An isolated staging and conversion repository for secure code integration, local-first data handling, and automated security reviews.
-* **[Healthcare Data Pipeline](https://github.com/yevett16472-jpg/Healthcare-Data-Pipeline-HIPAA-Audit-Engine):** An offline-first compliance and telemetry auditing system engineered for data integrity, secure local storage, and structured HIPAA audit execution.
-* **[Axiom Veda Core](https://github.com/yevett16472-jpg/yevett16472-jpg):** Profile architecture repository housing autonomous agent frameworks and core system metadata.
+All primary systems maintain strict numerological ordering and modular isolation to guarantee zero collateral execution side-effects:
 
----
-
-## Certifications & Professional Compliance
-
-* **AI & Advanced Frameworks:** Anthropic/Claude AI Fluency & Frameworks, Google Cloud Generative AI.
-* **Security & Regulatory Compliance:** HIPAA Compliance, SOC 2 compliance foundations, and data privacy protocols.
-* **Engineering & Data:** Python Data Analysis, AWS Cloud Architecture, and CS50 Foundations.
-* **Risk & Regulatory Architecture:** Texas Life and Health Insurance (Licensing Path / Protection & Shield Systems).
-
+```text
+FlosVitaeTech/
+├── 01_CONFIG/             # System parameters, environment keys, and static variables
+├── 02_CORE/               # Primary execution logic, multi-agent frameworks, and math engines
+├── 03_DATA/               # Local SQLite vaults, schemas, and persistent logs
+├── 04_ORCHESTRATION/      # CLI interfaces, job pollers, and system triggers
+└── 05_DOCS_MANIFEST/      # Technical documentation, strategy frameworks, and audit logs
  
