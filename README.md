@@ -73,3 +73,22 @@ FlosVitaeTech/
 ├── 💎 03_DATA/               # Local SQLite vaults, schemas, and audit log persistence
 ├── ⚡ 04_ORCHESTRATION/      # CLI interfaces, global job pollers, and system triggers
 └── 🪸 05_DOCS_MANIFEST/      # Master strategy briefings, protocol standards, and manifests
+
+# Clone repository
+git clone [https://github.com/yevett16472-jpg/FlosVitaeTech.git](https://github.com/yevett16472-jpg/FlosVitaeTech.git)
+cd FlosVitaeTech
+
+# Initialize local environment
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies & run orchestrator
+pip install -r requirements.txt
+python 04_ORCHESTRATION/aegis_cli.py
+
+
+[Systems & DBs]    :: Python 3.11+, SQL, SQLite, Bash, Local-First Architecture
+[Domain Expertise] :: HIPAA Compliance, Federal Healthcare Operations, Care-Line Logistics, Audit Trails
+[Engineering]      :: Multi-Agent Orchestration, Decision Support Systems (DSS), Zero-Trust Design
+[Environment]      :: VS Code, DBeaver, Git, Unix/Linux, Local Lenovo Workstations
+
